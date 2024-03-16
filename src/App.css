@@ -1,0 +1,24 @@
+.frame {
+  position: absolute;
+  width: 5000px;
+  height: 1000px;
+  /* top: 0%;
+  left: 0%; */
+  opacity: 1;
+  z-index: 1;
+  /* transform: rotate(0deg); */
+  overflow: hidden;
+  background: #ff0000;
+}
+
+.rectangle {
+  position: absolute;
+  width: 51.48px;
+  height: 42.83px;
+  top: 30.13px;
+  left: 21.23%;
+  opacity: 1;
+  z-index: 0;
+  transform: rotate(0deg);
+  background: rgb(10, 58, 141);
+}
