@@ -6,9 +6,9 @@ console.log("styles", styles);
 export default class App extends Component {
   render() {
     return (
-      <SafeAreaView style={{flex : 1}}>
-        <View className={styles["frame"]}>
-          <Text className={styles.rectangle} >hbjxvjbbfbs</Text>
+      <SafeAreaView style={{ flex: 1 }}>
+        <View className={styles.frame}>
+          <Text className={styles.rectangle}>hbjxvjbbfbs</Text>
         </View>
       </SafeAreaView>
     );

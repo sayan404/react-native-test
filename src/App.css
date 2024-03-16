@@ -4,10 +4,10 @@
   height: 1000px;
   /* top: 0%;
   left: 0%; */
-  opacity: 1;
-  z-index: 1;
+  /* opacity: 1;
+  z-index: 1; */
   /* transform: rotate(0deg); */
-  overflow: hidden;
+  /* overflow: hidden; */
   background: #ff0000;
 }
 
